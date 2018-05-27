@@ -5,7 +5,7 @@ export default [
         input: 'javascript/mxClient.js',
         name: 'jjgraph',
         intro: 'var mxLoadResources, mxForceIncludes, mxResourceExtension, mxLoadStylesheets;',
-        useStrict: false,
+        strict: false,
         output: [
             { file: pkg.main, format: 'cjs' },
             { file: pkg.module, format: 'es' },
