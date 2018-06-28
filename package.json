@@ -25,7 +25,7 @@
         "url": "https://github.com/jonjomckay/jjgraph/issues"
     },
     "homepage": "https://github.com/jonjomckay/jjgraph",
-    "files":[
+    "files": [
         "dist"
     ]
 }
